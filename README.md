@@ -1,6 +1,6 @@
 ### **Fibonacci Delta Encoding Engine (FDEE): Architectural Specifications**
 
-FDEE is a **Lossless Numerical Compression Primitive** leveraging non-linear base-mapping (Fibonacci Pillars) and Delta Encoding. Unlike standard Zeckendorf coding, FDEE utilizes a bidirectional offset mechanism to minimize the entropy of the resulting bitstream.
+FDEE is a **Lossless Numerical Compression** leveraging non-linear base-mapping (Fibonacci Pillars) and Delta Encoding. Unlike standard Zeckendorf coding, FDEE utilizes a bidirectional offset mechanism to minimize the entropy of the resulting bitstream.
 
 ### Best case scenario
 The best recorded scenario was a **84.28%** file size reduction for Fibonacci only numbers from a .txt file to a .bin file and stil got a **100%** data integrity after restoring the data from the .bin file.
