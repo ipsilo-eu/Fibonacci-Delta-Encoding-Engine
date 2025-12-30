@@ -1,0 +1,42 @@
+FDEE Proprietary Software License Agreement
+
+Version 1.2 (2025)
+
+Copyright (c) 2025 Tudor Simion (tudor@ipsilo.eu). All rights reserved.
+
+1. DEFINITIONS
+
+"Software" refers to the Fibonacci Delta Encoding Engine (FDEE) source code and the proprietary "Index ± Offset" algorithmic implementation. "Public Project" refers to any software, research, or service that is accessible, visible, or marketed to the general public or a specific industry.
+
+2. GRANT OF LICENSE
+
+A. Academic and Personal Use:
+The Software may be used for non-commercial research free of charge, provided that the Attribution requirements are met.
+
+B. Mandatory Usage Notification (The "Curiosity" Clause):
+Regardless of whether the use is commercial or academic, if the Software is integrated into a Public Project, the User MUST notify the Author via email (tudor@ipsilo.eu) within 30 days of deployment or publication. This notification should include:
+
+The name of the project.
+
+A brief description of how FDEE is being utilized.
+
+A link to the project or associated documentation.
+
+C. Commercial Use:
+Commercial use is STRICTLY PROHIBITED without a separate, written Commercial License Agreement.
+
+3. ETHICAL CLAUSE
+
+The Author reserves the right to revoke use permissions for any entity or project deemed to be acting against the ethical advancement of humanity. The Software must be used in a way that is safe, healthy, and beneficial to society. Use of the Software for harmful, illegal, or destructive purposes is a violation of this license.
+
+4. RESTRICTIONS & INTELLECTUAL PROPERTY
+
+The "Index ± Offset" logic remains the sole intellectual property of the Author. Unauthorized commercial use or failure to notify the author of public deployment constitutes a breach of this agreement.
+
+5. TERMINATION
+
+This license terminates automatically if you fail to comply with its terms, specifically the attribution, notification, and/or ethical requirements.
+
+6. CONTACT
+
+Tudor Simion - tudor@ipsilo.eu
