@@ -4,7 +4,7 @@ FDEE is a **Lossless Numerical Compression** leveraging non-linear base-mapping 
 
 ### Best case scenario
 The best recorded scenario was a **84.28%** file size reduction for Fibonacci only numbers from a .txt file to a .bin file and stil got a **100%** data integrity after restoring the data from the .bin file.
-From .bin to .bin, a good example ould be the 90th Fibonacci number, 2880067194370816120 would be ususally saved as **10011111 11100000 00110111 01101010 1000011 0111010 01111000 01111000** but using FDEE, **11101000 00000010**. That is a **74.19%** byte wise reduction.
+From .bin to .bin, a good example ould be the 90th Fibonacci number, 2880067194370816120 would be ususally saved as **10011111 11100000 00110111 01101010 1000011 0111010 01111000 01111000** but using FDEE, **11101000 00000010**. That is a **75%** byte wise reduction.
 
 #### **Technical Specifications**
 1. **Mapping Logic (Coordinate System):**
