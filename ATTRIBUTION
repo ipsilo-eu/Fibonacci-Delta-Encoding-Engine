@@ -1,0 +1,29 @@
+FDEE Attribution & Notification Requirements
+
+1. Mandatory Credit String
+
+All derivative works must include:
+
+"Encoded using FDEE (Fibonacci Delta Encoding Engine) © 2025 Tudor Simion (tudor@ipsilo.eu). Algorithm: Index ± Offset."
+
+2. Public Project Notification
+
+To satisfy the Author's requirement for architectural tracking and interest, users are required to send a "Notice of Implementation" to tudor@ipsilo.eu for any project that is made public.
+
+Why this is required:
+The Author tracks the implementation of FDEE across various sectors to monitor the evolution of the "Index ± Offset" logic in real-world environments.
+
+Failure to notify:
+Using FDEE in a public-facing project without notifying the author is a violation of the License Agreement.
+
+3. Public-Facing Integration (About/Version Pages)
+
+For projects with a User Interface (UI), the attribution must be accessible to the end-user. This ensures transparency and mathematical credit within the public domain:
+
+"About" or "Credits" Pages: The credit string must be listed alongside other third-party libraries or core technologies.
+
+Version Files (VERSION, CHANGELOG): If the project includes a version manifest or a "readme" for the public, FDEE must be mentioned as a core dependency for the data layer.
+
+Metadata: In web-based projects, including the attribution in a humans.txt file or as a comment in the primary header of the public-facing site is highly encouraged.
+
+Footer/Console: For developer-focused tools, a brief "Powered by FDEE" note in the CLI footer or initial console log is an acceptable alternative.
