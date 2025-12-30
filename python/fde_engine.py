@@ -109,7 +109,7 @@ if __name__ == "__main__":
     engine.decompress_file("data.bin", "data_restored.txt")
 
     # Integration Examples:
-    # encoded_bytes = engine.encode(12345)
-    # decoded_value = engine.decode(io.BytesIO(encoded_bytes))
+    encoded_bytes = engine.encode(12345)
+    decoded_value = engine.decode(io.BytesIO(encoded_bytes))
 """
 
